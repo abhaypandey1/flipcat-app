@@ -17,7 +17,7 @@
   </dependencies>
   <build>
     <finalName>flipcat-app</finalName>
-  </build>
+  
    <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
@@ -25,4 +25,5 @@
         <version>3.3.1</version>
       </plugin>
     </plugins>
+     </build>
 </project>
